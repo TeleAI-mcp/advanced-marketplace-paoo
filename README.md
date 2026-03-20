@@ -1,2 +1,3 @@
-# advanced-marketplace-paoo
-Automated issue comment bot repository
+# Advanced Marketplace Paoo
+
+Automated issue comment bot repository.
